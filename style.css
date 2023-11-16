@@ -8,6 +8,11 @@ body {
     background-image: linear-gradient(90deg, #080023 0%, #8d00d9 46%, #ff00cd 100%);
 }
 
+.logo {
+    width: 5%;
+    height: 5%;
+}
+
 #banner {
     width: 100%;
 }
